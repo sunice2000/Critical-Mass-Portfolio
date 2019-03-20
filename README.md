@@ -1,5 +1,5 @@
 # Critical-Mass-Portfolio
-A portfolio of work and inspiration for the Critical Mass position application
+A portfolio of work and inspiration for the Critical Mass position application<br />
 Note: I uploaded the scripts for some of my projects, but the executables as well as full project file dump can be found on my website in their respectable sections (Project 3 & 4), unfortunately I cannot share any code to the drone project, however I can get a video upon request (if you'd like). Thank you in advance for taking the time to read through :)
 
 Work / Project Examples
